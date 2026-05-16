@@ -1,15 +1,6 @@
 
 
 <p align="center">
-  <img src="docs/assets/pulsewetprobe-banner.svg" alt="PulseWetProbe banner" width="100%" />
-</p>
-
-<h1 align="center">PulseWetProbe</h1>
-
-
-
-
-<p align="center">
   <b>MCU-only Arduino library for pulsed two-electrode wetness, soil-moisture trend, surface wet/dry state, calibration, diagnostics, CSV/JSON logging, and anti-corrosion Hi-Z rest behavior.</b>
 </p>
 
