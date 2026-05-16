@@ -1,8 +1,13 @@
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,45:14B8A6,100:22C55E&text=PulseWetProbe&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=MCU-only%20pulsed%20electrode%20wetness%20%26%20soil-moisture%20trend%20sensing&descAlignY=58&descSize=16" alt="PulseWetProbe banner" />
+  <img src="docs/assets/pulsewetprobe-banner.svg" alt="PulseWetProbe banner" width="100%" />
 </p>
 
 <h1 align="center">PulseWetProbe</h1>
+
+
+
 
 <p align="center">
   <b>MCU-only Arduino library for pulsed two-electrode wetness, soil-moisture trend, surface wet/dry state, calibration, diagnostics, CSV/JSON logging, and anti-corrosion Hi-Z rest behavior.</b>
